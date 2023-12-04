@@ -6,6 +6,7 @@ public class Branch_B : MonoBehaviour {
     void Start()
     {
         Debug.Log("This is a B Branch.");
+        Debug.Log("This is a B Branch.");
     }
 
     void Update()
